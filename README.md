@@ -83,7 +83,7 @@ Prerequisites:
 Installation:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/california-housing-prediction.git
+   git clone https://github.com/MehdiAlizadehDev/california-housing-prediction.git
    cd california-housing-prediction
 
 2. Install the required packages:
@@ -106,7 +106,5 @@ This project is intended for educational and portfolio purposes. Feel free to us
 Contact
 
 Your Name
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourusername
-
+GitHub: https://github.com/MehdiAlizadehDev
 If you have any questions or feedback, feel free to reach out.
